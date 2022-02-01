@@ -1,0 +1,16 @@
+v 4
+file . "Eq02-ULA_Regs_tb.vhd" "1e474865216505dafcaeceaf3147d77224ee3dc6" "20190423034512.110":
+  entity ula_regs_tb at 1( 0) + 0 on 19;
+  architecture a_ula_regs_tb of ula_regs_tb at 8( 112) + 0 on 20;
+file . "Eq02-register_file.vhd" "cc05236af480d0332c6b740402cc1b02a5fb680f" "20190423034511.844":
+  entity register_file at 5( 69) + 0 on 15;
+  architecture a_register_file of register_file at 26( 696) + 0 on 16;
+file . "Eq02-ULA.vhd" "9ba3a538eedb2a4d8bd94ab582331929f082a4ac" "20190423034511.624":
+  entity ula at 5( 59) + 0 on 11;
+  architecture ula of ula at 18( 395) + 0 on 12;
+file . "Eq02-Reg16bits.vhd" "765ca0cc37716c4eaa3c4796733bdbb5b47c3149" "20190423034511.741":
+  entity reg16bits at 5( 65) + 0 on 13;
+  architecture a_reg16bits of reg16bits at 18( 342) + 0 on 14;
+file . "Eq02-ULA_Regs.vhd" "b57fc3e2619ad946f13a630ae03f39ab2b535614" "20190423034511.970":
+  entity ula_regs at 3( 18) + 0 on 17;
+  architecture a_ula_regs of ula_regs at 21( 637) + 0 on 18;

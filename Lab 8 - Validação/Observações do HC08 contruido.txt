@@ -1,0 +1,51 @@
+Giovanni de Rosso Unruh
+Andrigo Piai
+
+*Modificaçoes feitas:
+
+OPCODES de 16 bits iguais ao original com exceção de um OPCODE Especial q criamos para carregar valores no registrador até 127.
+Originalmente o HC08 não possui banco de registradores e sim uma memória indexada, a qual foi substituida pelo nosso Reg_file.
+Não implementação soma e subtração utilizando o valor do acumulador, apenas usando dois registradores.
+Registrador de flags->  no nosso processador fica dentro da ULA e originalmente fica no banco de registradores.
+
+--Modificamos a maneira de operação do HC08 para seguinte estrutura
+--Conjunto de Instruçoes utilizadas HC08
+
+	--instr		--OP(8bits)	--(4bits)			--(4bits)			--
+				--(15-8)	--(7-4)				--(3-0)
+	--NOP		--9D		--x					--x					-- NOP
+	--LDX		--DE		--Registrador X		--Imm 4 bits		-- Carrega valor inteiro no Registrador X
+	--ADD		--FB		--Registrador X		--Registrador Y		-- Soma RX e RY p/ Acumulador
+	--STA		--F7		--Registrador X		--x					-- Salva valor Acumulador p/ Registrador X
+	--SUB		--D0		--Registrador X		--Registrador Y		-- Subtrai RX e RY p/ Acumulador
+	--JMP		--CC		--Imm 8 bits							-- Salta para o endereço
+	--MOV		--5E		--Registrador X		--Registrador Y		-- Copia valor de Registrador Y p/ Registrador X
+	--CMP		--F1		--Registrador X		--x					-- Verifica o valor do registrador X e Atualiza as flags
+	--BLT		--91		--Valor relativo 8 bits					-- Realiza o desvio se o flag indicar Menor Que
+	--BGT		--92		--Valor relativo 8 bits					-- Realiza o desvio se o flag indicar Maior Que
+	--BEQ		--27		--Valor relativo 8 bits					-- Realiza o desvio se o flag indicar Igualdade
+	--LDR		--D1		--Registrador X		--posição da RAM	-- Carega o valor da RAM p/ Rx
+	--STR		--D2		--Registrador X		--posição da RAM	-- Escreve o valor RX na ram
+	--LDA		--A			--Registrador X		--Valor Até FF		-- Escrita no registradodor especial até FF (Opcode especial para facilitar nossa vida)
+
+*Nosso algoritimo é uma variação do Crivo de Eratóstenes:
+
+Inicialmente, determina-se o maior número a ser checado. 
+
+Crie uma lista de todos os números inteiros de 2 até o valor limite: 
+2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32.
+
+Encontre o primeiro número da lista. Ele é um número primo, 2.
+
+Remova da lista todos os múltiplos de 2 até 32. 
+No nosso exemplo, a lista fica: 2, 3, 5, 7, 11, 13, 15, 17, 19, 23, 25, 27 e 29.
+
+O próximo número da lista é primo. Repita o procedimento. No caso, o próximo número da lista é 3. 
+Removendo seus múltiplos, a lista fica: 2, 3, 5, 7, 11, 13, 17, 19, 23, 25 e 29. 
+
+O próximo número, 5, também é primo; 
+a lista fica: 2, 3, 5, 7, 11, 13, 17, 19, 23 e 29. 
+
+5 é o último número a ser verificado. 
+
+Assim, a lista encontrada contém somente números primos.

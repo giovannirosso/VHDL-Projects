@@ -1,0 +1,27 @@
+[*]
+[*] GTKWave Analyzer v3.3.99 (w)1999-2019 BSI
+[*] Thu Mar 21 21:15:31 2019
+[*]
+[dumpfile] "C:\Users\ROSSO\Documents\GHDL\Lab2\mux4x1_tb.ghw"
+[dumpfile_mtime] "Thu Mar 21 21:14:54 2019"
+[dumpfile_size] 458
+[savefile] "C:\Users\ROSSO\Documents\GHDL\Lab2\mux4x1.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-25.824818 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[sst_width] 197
+[signals_width] 78
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+top.mux4x1_tb.saida
+top.mux4x1_tb.entr3
+top.mux4x1_tb.entr2
+top.mux4x1_tb.entr1
+top.mux4x1_tb.entr0
+top.mux4x1_tb.sel1
+top.mux4x1_tb.sel0
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,32 @@
+[*]
+[*] GTKWave Analyzer v3.3.99 (w)1999-2019 BSI
+[*] Sun Apr 14 02:24:56 2019
+[*]
+[dumpfile] "C:\Users\Giovanni_PC\Downloads\Eq02-RegFile\Eq02-Reg16bits.ghw"
+[dumpfile_mtime] "Sun Apr 14 02:23:36 2019"
+[dumpfile_size] 1376
+[savefile] "C:\Users\Giovanni_PC\Downloads\Eq02-RegFile\Eq02-Reg16bits.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-27.851625 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.reg16bits_tb.
+[treeopen] top.reg16bits_tb.uut.
+[sst_width] 197
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@28
+[color] 1
+top.reg16bits_tb.wr_en
+[color] 2
+top.reg16bits_tb.rst
+top.reg16bits_tb.clk
+@22
+[color] 3
+#{top.reg16bits_tb.uut.data_in[15:0]} top.reg16bits_tb.uut.data_in[15] top.reg16bits_tb.uut.data_in[14] top.reg16bits_tb.uut.data_in[13] top.reg16bits_tb.uut.data_in[12] top.reg16bits_tb.uut.data_in[11] top.reg16bits_tb.uut.data_in[10] top.reg16bits_tb.uut.data_in[9] top.reg16bits_tb.uut.data_in[8] top.reg16bits_tb.uut.data_in[7] top.reg16bits_tb.uut.data_in[6] top.reg16bits_tb.uut.data_in[5] top.reg16bits_tb.uut.data_in[4] top.reg16bits_tb.uut.data_in[3] top.reg16bits_tb.uut.data_in[2] top.reg16bits_tb.uut.data_in[1] top.reg16bits_tb.uut.data_in[0]
+[color] 5
+#{top.reg16bits_tb.uut.data_out[15:0]} top.reg16bits_tb.uut.data_out[15] top.reg16bits_tb.uut.data_out[14] top.reg16bits_tb.uut.data_out[13] top.reg16bits_tb.uut.data_out[12] top.reg16bits_tb.uut.data_out[11] top.reg16bits_tb.uut.data_out[10] top.reg16bits_tb.uut.data_out[9] top.reg16bits_tb.uut.data_out[8] top.reg16bits_tb.uut.data_out[7] top.reg16bits_tb.uut.data_out[6] top.reg16bits_tb.uut.data_out[5] top.reg16bits_tb.uut.data_out[4] top.reg16bits_tb.uut.data_out[3] top.reg16bits_tb.uut.data_out[2] top.reg16bits_tb.uut.data_out[1] top.reg16bits_tb.uut.data_out[0]
+[pattern_trace] 1
+[pattern_trace] 0

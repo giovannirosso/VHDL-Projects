@@ -1,0 +1,7 @@
+v 4
+file . "porta_tb.vhd" "d8feb512d394b37557dde0efc85dd3befc37efc5" "20190321203754.080":
+  entity porta_tb at 1( 0) + 0 on 29;
+  architecture a_porta_tb of porta_tb at 7( 75) + 0 on 30;
+file . "porta.vhd" "4ab73fd070f9b46e0220a67f21549187d2cc0bb1" "20190321203753.769":
+  entity porta at 1( 0) + 0 on 27;
+  architecture a_porta of porta at 11( 165) + 0 on 28;

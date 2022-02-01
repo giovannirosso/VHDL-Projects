@@ -1,0 +1,61 @@
+[*]
+[*] GTKWave Analyzer v3.3.99 (w)1999-2019 BSI
+[*] Tue May 07 04:54:18 2019
+[*]
+[dumpfile] "C:\Users\Giovanni_PC\Documents\GHDL\Lab 4 - UC + ROM\Eq02-ROM-PC-UC.ghw"
+[dumpfile_mtime] "Tue May 07 04:53:18 2019"
+[dumpfile_size] 3090
+[savefile] "C:\Users\Giovanni_PC\Documents\GHDL\Lab 4 - UC + ROM\Eq02-ROM-PC-UC.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-29.514364 3427000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.controlunit_tb.
+[treeopen] top.controlunit_tb.uut.
+[treeopen] top.controlunit_tb.uut.rom_c.
+[sst_width] 197
+[signals_width] 337
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+top.controlunit_tb.uut.rst
+top.controlunit_tb.uut.clk
+top.controlunit_tb.uut.estado_s
+top.controlunit_tb.uut.jump_en
+@22
+[color] 2
+#{top.controlunit_tb.controlunit_out[15:0]} top.controlunit_tb.controlunit_out[15] top.controlunit_tb.controlunit_out[14] top.controlunit_tb.controlunit_out[13] top.controlunit_tb.controlunit_out[12] top.controlunit_tb.controlunit_out[11] top.controlunit_tb.controlunit_out[10] top.controlunit_tb.controlunit_out[9] top.controlunit_tb.controlunit_out[8] top.controlunit_tb.controlunit_out[7] top.controlunit_tb.controlunit_out[6] top.controlunit_tb.controlunit_out[5] top.controlunit_tb.controlunit_out[4] top.controlunit_tb.controlunit_out[3] top.controlunit_tb.controlunit_out[2] top.controlunit_tb.controlunit_out[1] top.controlunit_tb.controlunit_out[0]
+@200
+-
+@22
+[color] 5
+#{top.controlunit_tb.uut.data_outpc_s[15:0]} top.controlunit_tb.uut.data_outpc_s[15] top.controlunit_tb.uut.data_outpc_s[14] top.controlunit_tb.uut.data_outpc_s[13] top.controlunit_tb.uut.data_outpc_s[12] top.controlunit_tb.uut.data_outpc_s[11] top.controlunit_tb.uut.data_outpc_s[10] top.controlunit_tb.uut.data_outpc_s[9] top.controlunit_tb.uut.data_outpc_s[8] top.controlunit_tb.uut.data_outpc_s[7] top.controlunit_tb.uut.data_outpc_s[6] top.controlunit_tb.uut.data_outpc_s[5] top.controlunit_tb.uut.data_outpc_s[4] top.controlunit_tb.uut.data_outpc_s[3] top.controlunit_tb.uut.data_outpc_s[2] top.controlunit_tb.uut.data_outpc_s[1] top.controlunit_tb.uut.data_outpc_s[0]
+@23
+[color] 5
+#{top.controlunit_tb.uut.data_in_s[15:0]} top.controlunit_tb.uut.data_in_s[15] top.controlunit_tb.uut.data_in_s[14] top.controlunit_tb.uut.data_in_s[13] top.controlunit_tb.uut.data_in_s[12] top.controlunit_tb.uut.data_in_s[11] top.controlunit_tb.uut.data_in_s[10] top.controlunit_tb.uut.data_in_s[9] top.controlunit_tb.uut.data_in_s[8] top.controlunit_tb.uut.data_in_s[7] top.controlunit_tb.uut.data_in_s[6] top.controlunit_tb.uut.data_in_s[5] top.controlunit_tb.uut.data_in_s[4] top.controlunit_tb.uut.data_in_s[3] top.controlunit_tb.uut.data_in_s[2] top.controlunit_tb.uut.data_in_s[1] top.controlunit_tb.uut.data_in_s[0]
+@200
+-
+@28
+[color] 3
+#{top.controlunit_tb.uut.opcode[3:0]} top.controlunit_tb.uut.opcode[3] top.controlunit_tb.uut.opcode[2] top.controlunit_tb.uut.opcode[1] top.controlunit_tb.uut.opcode[0]
+@200
+-1111 Para Jump / 0000 Para NOP
+-
+@22
+[color] 1
+#{top.controlunit_tb.uut.jump_address[11:0]} top.controlunit_tb.uut.jump_address[11] top.controlunit_tb.uut.jump_address[10] top.controlunit_tb.uut.jump_address[9] top.controlunit_tb.uut.jump_address[8] top.controlunit_tb.uut.jump_address[7] top.controlunit_tb.uut.jump_address[6] top.controlunit_tb.uut.jump_address[5] top.controlunit_tb.uut.jump_address[4] top.controlunit_tb.uut.jump_address[3] top.controlunit_tb.uut.jump_address[2] top.controlunit_tb.uut.jump_address[1] top.controlunit_tb.uut.jump_address[0]
+@200
+-Se o Jump_EN for 1
+-Pula para o Endereço indicado
+-
+@22
+#{top.controlunit_tb.uut.data_rom_out[15:0]} top.controlunit_tb.uut.data_rom_out[15] top.controlunit_tb.uut.data_rom_out[14] top.controlunit_tb.uut.data_rom_out[13] top.controlunit_tb.uut.data_rom_out[12] top.controlunit_tb.uut.data_rom_out[11] top.controlunit_tb.uut.data_rom_out[10] top.controlunit_tb.uut.data_rom_out[9] top.controlunit_tb.uut.data_rom_out[8] top.controlunit_tb.uut.data_rom_out[7] top.controlunit_tb.uut.data_rom_out[6] top.controlunit_tb.uut.data_rom_out[5] top.controlunit_tb.uut.data_rom_out[4] top.controlunit_tb.uut.data_rom_out[3] top.controlunit_tb.uut.data_rom_out[2] top.controlunit_tb.uut.data_rom_out[1] top.controlunit_tb.uut.data_rom_out[0]
+@200
+-Conteudo da ROM
+@24
+#{top.controlunit_tb.uut.address_rom[15:0]} top.controlunit_tb.uut.address_rom[15] top.controlunit_tb.uut.address_rom[14] top.controlunit_tb.uut.address_rom[13] top.controlunit_tb.uut.address_rom[12] top.controlunit_tb.uut.address_rom[11] top.controlunit_tb.uut.address_rom[10] top.controlunit_tb.uut.address_rom[9] top.controlunit_tb.uut.address_rom[8] top.controlunit_tb.uut.address_rom[7] top.controlunit_tb.uut.address_rom[6] top.controlunit_tb.uut.address_rom[5] top.controlunit_tb.uut.address_rom[4] top.controlunit_tb.uut.address_rom[3] top.controlunit_tb.uut.address_rom[2] top.controlunit_tb.uut.address_rom[1] top.controlunit_tb.uut.address_rom[0]
+@200
+-Endereço ROM
+[pattern_trace] 1
+[pattern_trace] 0

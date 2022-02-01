@@ -1,0 +1,108 @@
+[*]
+[*] GTKWave Analyzer v3.3.99 (w)1999-2019 BSI
+[*] Mon Jun 10 05:39:47 2019
+[*]
+[dumpfile] "G:\AOC\GHDL\Lab 6 - DesvioCondicional\Eq02-DesvCond.ghw"
+[dumpfile_mtime] "Mon Jun 10 05:38:32 2019"
+[dumpfile_size] 60714
+[savefile] "G:\AOC\GHDL\Lab 6 - DesvioCondicional\Eq02-DesvCond.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -1 -1
+*-34.106956 150000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.processador_tb.
+[treeopen] top.processador_tb.uut.
+[treeopen] top.processador_tb.uut.reg_file.reg3.
+[treeopen] top.processador_tb.uut.reg_file.reg4.
+[treeopen] top.processador_tb.uut.reg_file.reg5.
+[treeopen] top.processador_tb.uut.reg_file.reg6.
+[treeopen] top.processador_tb.uut.reg_file.reg7.
+[sst_width] 300
+[signals_width] 273
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+top.processador_tb.rst
+top.processador_tb.clk
+@2022
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+#{top.processador_tb.controlunit_out[15:0]} top.processador_tb.controlunit_out[15] top.processador_tb.controlunit_out[14] top.processador_tb.controlunit_out[13] top.processador_tb.controlunit_out[12] top.processador_tb.controlunit_out[11] top.processador_tb.controlunit_out[10] top.processador_tb.controlunit_out[9] top.processador_tb.controlunit_out[8] top.processador_tb.controlunit_out[7] top.processador_tb.controlunit_out[6] top.processador_tb.controlunit_out[5] top.processador_tb.controlunit_out[4] top.processador_tb.controlunit_out[3] top.processador_tb.controlunit_out[2] top.processador_tb.controlunit_out[1] top.processador_tb.controlunit_out[0]
+@20000
+-
+@c02022
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+#{top.processador_tb.uut.opcode[7:0]} top.processador_tb.uut.opcode[7] top.processador_tb.uut.opcode[6] top.processador_tb.uut.opcode[5] top.processador_tb.uut.opcode[4] top.processador_tb.uut.opcode[3] top.processador_tb.uut.opcode[2] top.processador_tb.uut.opcode[1] top.processador_tb.uut.opcode[0]
+@2028
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+top.processador_tb.uut.opcode[7]
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+top.processador_tb.uut.opcode[6]
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+top.processador_tb.uut.opcode[5]
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+top.processador_tb.uut.opcode[4]
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+top.processador_tb.uut.opcode[3]
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+top.processador_tb.uut.opcode[2]
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+top.processador_tb.uut.opcode[1]
+^1 G:\AOC\GHDL\Lab 6 - DesvioCondicional\OpCodes GTKW Translate.txt
+top.processador_tb.uut.opcode[0]
+@1401200
+-group_end
+@20000
+-
+@24
+[color] 1
+#{top.processador_tb.uut.b_addr[15:0]} top.processador_tb.uut.b_addr[15] top.processador_tb.uut.b_addr[14] top.processador_tb.uut.b_addr[13] top.processador_tb.uut.b_addr[12] top.processador_tb.uut.b_addr[11] top.processador_tb.uut.b_addr[10] top.processador_tb.uut.b_addr[9] top.processador_tb.uut.b_addr[8] top.processador_tb.uut.b_addr[7] top.processador_tb.uut.b_addr[6] top.processador_tb.uut.b_addr[5] top.processador_tb.uut.b_addr[4] top.processador_tb.uut.b_addr[3] top.processador_tb.uut.b_addr[2] top.processador_tb.uut.b_addr[1] top.processador_tb.uut.b_addr[0]
+@28
+[color] 5
+top.processador_tb.uut.b_flag_en
+[color] 5
+#{top.processador_tb.uut.flag_s[7:0]} top.processador_tb.uut.flag_s[7] top.processador_tb.uut.flag_s[6] top.processador_tb.uut.flag_s[5] top.processador_tb.uut.flag_s[4] top.processador_tb.uut.flag_s[3] top.processador_tb.uut.flag_s[2] top.processador_tb.uut.flag_s[1] top.processador_tb.uut.flag_s[0]
+[color] 5
+top.processador_tb.uut.b_en
+@20000
+-
+@200
+-R3
+@24
+[color] 2
+#{top.processador_tb.uut.reg_file.reg3.registro[15:0]} top.processador_tb.uut.reg_file.reg3.registro[15] top.processador_tb.uut.reg_file.reg3.registro[14] top.processador_tb.uut.reg_file.reg3.registro[13] top.processador_tb.uut.reg_file.reg3.registro[12] top.processador_tb.uut.reg_file.reg3.registro[11] top.processador_tb.uut.reg_file.reg3.registro[10] top.processador_tb.uut.reg_file.reg3.registro[9] top.processador_tb.uut.reg_file.reg3.registro[8] top.processador_tb.uut.reg_file.reg3.registro[7] top.processador_tb.uut.reg_file.reg3.registro[6] top.processador_tb.uut.reg_file.reg3.registro[5] top.processador_tb.uut.reg_file.reg3.registro[4] top.processador_tb.uut.reg_file.reg3.registro[3] top.processador_tb.uut.reg_file.reg3.registro[2] top.processador_tb.uut.reg_file.reg3.registro[1] top.processador_tb.uut.reg_file.reg3.registro[0]
+@20000
+-
+@200
+-R4
+@24
+[color] 2
+#{top.processador_tb.uut.reg_file.reg4.registro[15:0]} top.processador_tb.uut.reg_file.reg4.registro[15] top.processador_tb.uut.reg_file.reg4.registro[14] top.processador_tb.uut.reg_file.reg4.registro[13] top.processador_tb.uut.reg_file.reg4.registro[12] top.processador_tb.uut.reg_file.reg4.registro[11] top.processador_tb.uut.reg_file.reg4.registro[10] top.processador_tb.uut.reg_file.reg4.registro[9] top.processador_tb.uut.reg_file.reg4.registro[8] top.processador_tb.uut.reg_file.reg4.registro[7] top.processador_tb.uut.reg_file.reg4.registro[6] top.processador_tb.uut.reg_file.reg4.registro[5] top.processador_tb.uut.reg_file.reg4.registro[4] top.processador_tb.uut.reg_file.reg4.registro[3] top.processador_tb.uut.reg_file.reg4.registro[2] top.processador_tb.uut.reg_file.reg4.registro[1] top.processador_tb.uut.reg_file.reg4.registro[0]
+@20000
+-
+@200
+-R5
+@24
+[color] 2
+#{top.processador_tb.uut.reg_file.reg5.registro[15:0]} top.processador_tb.uut.reg_file.reg5.registro[15] top.processador_tb.uut.reg_file.reg5.registro[14] top.processador_tb.uut.reg_file.reg5.registro[13] top.processador_tb.uut.reg_file.reg5.registro[12] top.processador_tb.uut.reg_file.reg5.registro[11] top.processador_tb.uut.reg_file.reg5.registro[10] top.processador_tb.uut.reg_file.reg5.registro[9] top.processador_tb.uut.reg_file.reg5.registro[8] top.processador_tb.uut.reg_file.reg5.registro[7] top.processador_tb.uut.reg_file.reg5.registro[6] top.processador_tb.uut.reg_file.reg5.registro[5] top.processador_tb.uut.reg_file.reg5.registro[4] top.processador_tb.uut.reg_file.reg5.registro[3] top.processador_tb.uut.reg_file.reg5.registro[2] top.processador_tb.uut.reg_file.reg5.registro[1] top.processador_tb.uut.reg_file.reg5.registro[0]
+@20000
+-
+@200
+-R6
+@24
+#{top.processador_tb.uut.reg_file.reg6.registro[15:0]} top.processador_tb.uut.reg_file.reg6.registro[15] top.processador_tb.uut.reg_file.reg6.registro[14] top.processador_tb.uut.reg_file.reg6.registro[13] top.processador_tb.uut.reg_file.reg6.registro[12] top.processador_tb.uut.reg_file.reg6.registro[11] top.processador_tb.uut.reg_file.reg6.registro[10] top.processador_tb.uut.reg_file.reg6.registro[9] top.processador_tb.uut.reg_file.reg6.registro[8] top.processador_tb.uut.reg_file.reg6.registro[7] top.processador_tb.uut.reg_file.reg6.registro[6] top.processador_tb.uut.reg_file.reg6.registro[5] top.processador_tb.uut.reg_file.reg6.registro[4] top.processador_tb.uut.reg_file.reg6.registro[3] top.processador_tb.uut.reg_file.reg6.registro[2] top.processador_tb.uut.reg_file.reg6.registro[1] top.processador_tb.uut.reg_file.reg6.registro[0]
+@20000
+-
+@200
+-R7
+@24
+#{top.processador_tb.uut.reg_file.reg7.registro[15:0]} top.processador_tb.uut.reg_file.reg7.registro[15] top.processador_tb.uut.reg_file.reg7.registro[14] top.processador_tb.uut.reg_file.reg7.registro[13] top.processador_tb.uut.reg_file.reg7.registro[12] top.processador_tb.uut.reg_file.reg7.registro[11] top.processador_tb.uut.reg_file.reg7.registro[10] top.processador_tb.uut.reg_file.reg7.registro[9] top.processador_tb.uut.reg_file.reg7.registro[8] top.processador_tb.uut.reg_file.reg7.registro[7] top.processador_tb.uut.reg_file.reg7.registro[6] top.processador_tb.uut.reg_file.reg7.registro[5] top.processador_tb.uut.reg_file.reg7.registro[4] top.processador_tb.uut.reg_file.reg7.registro[3] top.processador_tb.uut.reg_file.reg7.registro[2] top.processador_tb.uut.reg_file.reg7.registro[1] top.processador_tb.uut.reg_file.reg7.registro[0]
+@20000
+-
+@200
+-SAIDA ACC
+@24
+[color] 3
+#{top.processador_tb.uut.acc_data_out_s[15:0]} top.processador_tb.uut.acc_data_out_s[15] top.processador_tb.uut.acc_data_out_s[14] top.processador_tb.uut.acc_data_out_s[13] top.processador_tb.uut.acc_data_out_s[12] top.processador_tb.uut.acc_data_out_s[11] top.processador_tb.uut.acc_data_out_s[10] top.processador_tb.uut.acc_data_out_s[9] top.processador_tb.uut.acc_data_out_s[8] top.processador_tb.uut.acc_data_out_s[7] top.processador_tb.uut.acc_data_out_s[6] top.processador_tb.uut.acc_data_out_s[5] top.processador_tb.uut.acc_data_out_s[4] top.processador_tb.uut.acc_data_out_s[3] top.processador_tb.uut.acc_data_out_s[2] top.processador_tb.uut.acc_data_out_s[1] top.processador_tb.uut.acc_data_out_s[0]
+[pattern_trace] 1
+[pattern_trace] 0

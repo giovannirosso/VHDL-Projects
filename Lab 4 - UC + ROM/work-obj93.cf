@@ -1,0 +1,16 @@
+v 4
+file . "Eq02-controlUnit_tb.vhd" "d85d920d98d1e0d323a2dd3e4d2dbcedc70728c5" "20190606195904.617":
+  entity controlunit_tb at 1( 0) + 0 on 19;
+  architecture a_controlunit_tb of controlunit_tb at 10( 119) + 0 on 20;
+file . "Eq02-pc.vhd" "1c9140d2e62b5c890b68a25e6e36f14aa8111b4c" "20190606195904.491":
+  entity pc at 5( 58) + 0 on 15;
+  architecture a_pc of pc at 18( 330) + 0 on 16;
+file . "Eq02-rom.vhd" "1535bffb4482b08f68dc3bffcd87b835cb41bfc9" "20190606195904.371":
+  entity rom at 5( 59) + 0 on 11;
+  architecture a_rom of rom at 16( 277) + 0 on 12;
+file . "Eq02-maquinaEstados.vhd" "8f8a2ca207cb16e5506383dbabfa6b8790455633" "20190606195904.431":
+  entity maquinaestados at 5( 74) + 0 on 13;
+  architecture a_maquinaestados of maquinaestados at 16( 275) + 0 on 14;
+file . "Eq02-controlUnit.vhd" "e091e83d1ec70ae77d5253fc265f4353d88fffd7" "20190606195904.552":
+  entity controlunit at 5( 75) + 0 on 17;
+  architecture a_controlunit of controlunit at 16( 294) + 0 on 18;

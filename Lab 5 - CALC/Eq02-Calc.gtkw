@@ -1,0 +1,74 @@
+[*]
+[*] GTKWave Analyzer v3.3.99 (w)1999-2019 BSI
+[*] Tue Jun 04 06:48:03 2019
+[*]
+[dumpfile] "C:\Users\Giovanni_PC\Desktop\Lab 5 - CALC v1.1\Eq02-Calc.ghw"
+[dumpfile_mtime] "Tue Jun 04 06:46:58 2019"
+[dumpfile_size] 15687
+[savefile] "C:\Users\Giovanni_PC\Desktop\Lab 5 - CALC v1.1\Eq02-Calc.gtkw"
+[timestart] 0
+[size] 1920 1017
+[pos] -9 -9
+*-30.104546 1630000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.controlunit_tb.
+[treeopen] top.controlunit_tb.uut.
+[treeopen] top.controlunit_tb.uut.reg_file.
+[treeopen] top.controlunit_tb.uut.reg_file.reg3.
+[treeopen] top.controlunit_tb.uut.reg_file.reg4.
+[treeopen] top.controlunit_tb.uut.reg_file.reg6.
+[sst_width] 300
+[signals_width] 273
+[sst_expanded] 1
+[sst_vpaned_height] 300
+@28
+top.controlunit_tb.rst
+top.controlunit_tb.clk
+#{top.controlunit_tb.uut.estado_s[1:0]} top.controlunit_tb.uut.estado_s[1] top.controlunit_tb.uut.estado_s[0]
+@22
+#{top.controlunit_tb.uut.data_outpc_s[15:0]} top.controlunit_tb.uut.data_outpc_s[15] top.controlunit_tb.uut.data_outpc_s[14] top.controlunit_tb.uut.data_outpc_s[13] top.controlunit_tb.uut.data_outpc_s[12] top.controlunit_tb.uut.data_outpc_s[11] top.controlunit_tb.uut.data_outpc_s[10] top.controlunit_tb.uut.data_outpc_s[9] top.controlunit_tb.uut.data_outpc_s[8] top.controlunit_tb.uut.data_outpc_s[7] top.controlunit_tb.uut.data_outpc_s[6] top.controlunit_tb.uut.data_outpc_s[5] top.controlunit_tb.uut.data_outpc_s[4] top.controlunit_tb.uut.data_outpc_s[3] top.controlunit_tb.uut.data_outpc_s[2] top.controlunit_tb.uut.data_outpc_s[1] top.controlunit_tb.uut.data_outpc_s[0]
+[color] 1
+#{top.controlunit_tb.controlunit_out[15:0]} top.controlunit_tb.controlunit_out[15] top.controlunit_tb.controlunit_out[14] top.controlunit_tb.controlunit_out[13] top.controlunit_tb.controlunit_out[12] top.controlunit_tb.controlunit_out[11] top.controlunit_tb.controlunit_out[10] top.controlunit_tb.controlunit_out[9] top.controlunit_tb.controlunit_out[8] top.controlunit_tb.controlunit_out[7] top.controlunit_tb.controlunit_out[6] top.controlunit_tb.controlunit_out[5] top.controlunit_tb.controlunit_out[4] top.controlunit_tb.controlunit_out[3] top.controlunit_tb.controlunit_out[2] top.controlunit_tb.controlunit_out[1] top.controlunit_tb.controlunit_out[0]
+[color] 1
+#{top.controlunit_tb.uut.opcode[7:0]} top.controlunit_tb.uut.opcode[7] top.controlunit_tb.uut.opcode[6] top.controlunit_tb.uut.opcode[5] top.controlunit_tb.uut.opcode[4] top.controlunit_tb.uut.opcode[3] top.controlunit_tb.uut.opcode[2] top.controlunit_tb.uut.opcode[1] top.controlunit_tb.uut.opcode[0]
+@24
+[color] 7
+#{top.controlunit_tb.uut.rd1_s[15:0]} top.controlunit_tb.uut.rd1_s[15] top.controlunit_tb.uut.rd1_s[14] top.controlunit_tb.uut.rd1_s[13] top.controlunit_tb.uut.rd1_s[12] top.controlunit_tb.uut.rd1_s[11] top.controlunit_tb.uut.rd1_s[10] top.controlunit_tb.uut.rd1_s[9] top.controlunit_tb.uut.rd1_s[8] top.controlunit_tb.uut.rd1_s[7] top.controlunit_tb.uut.rd1_s[6] top.controlunit_tb.uut.rd1_s[5] top.controlunit_tb.uut.rd1_s[4] top.controlunit_tb.uut.rd1_s[3] top.controlunit_tb.uut.rd1_s[2] top.controlunit_tb.uut.rd1_s[1] top.controlunit_tb.uut.rd1_s[0]
+[color] 7
+#{top.controlunit_tb.uut.rd2_s[15:0]} top.controlunit_tb.uut.rd2_s[15] top.controlunit_tb.uut.rd2_s[14] top.controlunit_tb.uut.rd2_s[13] top.controlunit_tb.uut.rd2_s[12] top.controlunit_tb.uut.rd2_s[11] top.controlunit_tb.uut.rd2_s[10] top.controlunit_tb.uut.rd2_s[9] top.controlunit_tb.uut.rd2_s[8] top.controlunit_tb.uut.rd2_s[7] top.controlunit_tb.uut.rd2_s[6] top.controlunit_tb.uut.rd2_s[5] top.controlunit_tb.uut.rd2_s[4] top.controlunit_tb.uut.rd2_s[3] top.controlunit_tb.uut.rd2_s[2] top.controlunit_tb.uut.rd2_s[1] top.controlunit_tb.uut.rd2_s[0]
+[color] 4
+#{top.controlunit_tb.uut.wd3_s[15:0]} top.controlunit_tb.uut.wd3_s[15] top.controlunit_tb.uut.wd3_s[14] top.controlunit_tb.uut.wd3_s[13] top.controlunit_tb.uut.wd3_s[12] top.controlunit_tb.uut.wd3_s[11] top.controlunit_tb.uut.wd3_s[10] top.controlunit_tb.uut.wd3_s[9] top.controlunit_tb.uut.wd3_s[8] top.controlunit_tb.uut.wd3_s[7] top.controlunit_tb.uut.wd3_s[6] top.controlunit_tb.uut.wd3_s[5] top.controlunit_tb.uut.wd3_s[4] top.controlunit_tb.uut.wd3_s[3] top.controlunit_tb.uut.wd3_s[2] top.controlunit_tb.uut.wd3_s[1] top.controlunit_tb.uut.wd3_s[0]
+[color] 5
+#{top.controlunit_tb.uut.out_s[15:0]} top.controlunit_tb.uut.out_s[15] top.controlunit_tb.uut.out_s[14] top.controlunit_tb.uut.out_s[13] top.controlunit_tb.uut.out_s[12] top.controlunit_tb.uut.out_s[11] top.controlunit_tb.uut.out_s[10] top.controlunit_tb.uut.out_s[9] top.controlunit_tb.uut.out_s[8] top.controlunit_tb.uut.out_s[7] top.controlunit_tb.uut.out_s[6] top.controlunit_tb.uut.out_s[5] top.controlunit_tb.uut.out_s[4] top.controlunit_tb.uut.out_s[3] top.controlunit_tb.uut.out_s[2] top.controlunit_tb.uut.out_s[1] top.controlunit_tb.uut.out_s[0]
+[color] 5
+#{top.controlunit_tb.uut.acc_data_in_s[15:0]} top.controlunit_tb.uut.acc_data_in_s[15] top.controlunit_tb.uut.acc_data_in_s[14] top.controlunit_tb.uut.acc_data_in_s[13] top.controlunit_tb.uut.acc_data_in_s[12] top.controlunit_tb.uut.acc_data_in_s[11] top.controlunit_tb.uut.acc_data_in_s[10] top.controlunit_tb.uut.acc_data_in_s[9] top.controlunit_tb.uut.acc_data_in_s[8] top.controlunit_tb.uut.acc_data_in_s[7] top.controlunit_tb.uut.acc_data_in_s[6] top.controlunit_tb.uut.acc_data_in_s[5] top.controlunit_tb.uut.acc_data_in_s[4] top.controlunit_tb.uut.acc_data_in_s[3] top.controlunit_tb.uut.acc_data_in_s[2] top.controlunit_tb.uut.acc_data_in_s[1] top.controlunit_tb.uut.acc_data_in_s[0]
+[color] 3
+#{top.controlunit_tb.uut.acc_data_out_s[15:0]} top.controlunit_tb.uut.acc_data_out_s[15] top.controlunit_tb.uut.acc_data_out_s[14] top.controlunit_tb.uut.acc_data_out_s[13] top.controlunit_tb.uut.acc_data_out_s[12] top.controlunit_tb.uut.acc_data_out_s[11] top.controlunit_tb.uut.acc_data_out_s[10] top.controlunit_tb.uut.acc_data_out_s[9] top.controlunit_tb.uut.acc_data_out_s[8] top.controlunit_tb.uut.acc_data_out_s[7] top.controlunit_tb.uut.acc_data_out_s[6] top.controlunit_tb.uut.acc_data_out_s[5] top.controlunit_tb.uut.acc_data_out_s[4] top.controlunit_tb.uut.acc_data_out_s[3] top.controlunit_tb.uut.acc_data_out_s[2] top.controlunit_tb.uut.acc_data_out_s[1] top.controlunit_tb.uut.acc_data_out_s[0]
+[color] 2
+#{top.controlunit_tb.uut.a1_s[2:0]} top.controlunit_tb.uut.a1_s[2] top.controlunit_tb.uut.a1_s[1] top.controlunit_tb.uut.a1_s[0]
+@25
+[color] 2
+#{top.controlunit_tb.uut.a2_s[2:0]} top.controlunit_tb.uut.a2_s[2] top.controlunit_tb.uut.a2_s[1] top.controlunit_tb.uut.a2_s[0]
+@200
+-Reg Destino
+@24
+[color] 2
+#{top.controlunit_tb.uut.a3_s[2:0]} top.controlunit_tb.uut.a3_s[2] top.controlunit_tb.uut.a3_s[1] top.controlunit_tb.uut.a3_s[0]
+@200
+-R3
+@24
+#{top.controlunit_tb.uut.reg_file.reg3.registro[15:0]} top.controlunit_tb.uut.reg_file.reg3.registro[15] top.controlunit_tb.uut.reg_file.reg3.registro[14] top.controlunit_tb.uut.reg_file.reg3.registro[13] top.controlunit_tb.uut.reg_file.reg3.registro[12] top.controlunit_tb.uut.reg_file.reg3.registro[11] top.controlunit_tb.uut.reg_file.reg3.registro[10] top.controlunit_tb.uut.reg_file.reg3.registro[9] top.controlunit_tb.uut.reg_file.reg3.registro[8] top.controlunit_tb.uut.reg_file.reg3.registro[7] top.controlunit_tb.uut.reg_file.reg3.registro[6] top.controlunit_tb.uut.reg_file.reg3.registro[5] top.controlunit_tb.uut.reg_file.reg3.registro[4] top.controlunit_tb.uut.reg_file.reg3.registro[3] top.controlunit_tb.uut.reg_file.reg3.registro[2] top.controlunit_tb.uut.reg_file.reg3.registro[1] top.controlunit_tb.uut.reg_file.reg3.registro[0]
+@200
+-R4
+@24
+#{top.controlunit_tb.uut.reg_file.reg4.registro[15:0]} top.controlunit_tb.uut.reg_file.reg4.registro[15] top.controlunit_tb.uut.reg_file.reg4.registro[14] top.controlunit_tb.uut.reg_file.reg4.registro[13] top.controlunit_tb.uut.reg_file.reg4.registro[12] top.controlunit_tb.uut.reg_file.reg4.registro[11] top.controlunit_tb.uut.reg_file.reg4.registro[10] top.controlunit_tb.uut.reg_file.reg4.registro[9] top.controlunit_tb.uut.reg_file.reg4.registro[8] top.controlunit_tb.uut.reg_file.reg4.registro[7] top.controlunit_tb.uut.reg_file.reg4.registro[6] top.controlunit_tb.uut.reg_file.reg4.registro[5] top.controlunit_tb.uut.reg_file.reg4.registro[4] top.controlunit_tb.uut.reg_file.reg4.registro[3] top.controlunit_tb.uut.reg_file.reg4.registro[2] top.controlunit_tb.uut.reg_file.reg4.registro[1] top.controlunit_tb.uut.reg_file.reg4.registro[0]
+@200
+-R5
+@24
+#{top.controlunit_tb.uut.reg_file.reg5.registro[15:0]} top.controlunit_tb.uut.reg_file.reg5.registro[15] top.controlunit_tb.uut.reg_file.reg5.registro[14] top.controlunit_tb.uut.reg_file.reg5.registro[13] top.controlunit_tb.uut.reg_file.reg5.registro[12] top.controlunit_tb.uut.reg_file.reg5.registro[11] top.controlunit_tb.uut.reg_file.reg5.registro[10] top.controlunit_tb.uut.reg_file.reg5.registro[9] top.controlunit_tb.uut.reg_file.reg5.registro[8] top.controlunit_tb.uut.reg_file.reg5.registro[7] top.controlunit_tb.uut.reg_file.reg5.registro[6] top.controlunit_tb.uut.reg_file.reg5.registro[5] top.controlunit_tb.uut.reg_file.reg5.registro[4] top.controlunit_tb.uut.reg_file.reg5.registro[3] top.controlunit_tb.uut.reg_file.reg5.registro[2] top.controlunit_tb.uut.reg_file.reg5.registro[1] top.controlunit_tb.uut.reg_file.reg5.registro[0]
+@200
+-R6
+@24
+#{top.controlunit_tb.uut.reg_file.reg6.registro[15:0]} top.controlunit_tb.uut.reg_file.reg6.registro[15] top.controlunit_tb.uut.reg_file.reg6.registro[14] top.controlunit_tb.uut.reg_file.reg6.registro[13] top.controlunit_tb.uut.reg_file.reg6.registro[12] top.controlunit_tb.uut.reg_file.reg6.registro[11] top.controlunit_tb.uut.reg_file.reg6.registro[10] top.controlunit_tb.uut.reg_file.reg6.registro[9] top.controlunit_tb.uut.reg_file.reg6.registro[8] top.controlunit_tb.uut.reg_file.reg6.registro[7] top.controlunit_tb.uut.reg_file.reg6.registro[6] top.controlunit_tb.uut.reg_file.reg6.registro[5] top.controlunit_tb.uut.reg_file.reg6.registro[4] top.controlunit_tb.uut.reg_file.reg6.registro[3] top.controlunit_tb.uut.reg_file.reg6.registro[2] top.controlunit_tb.uut.reg_file.reg6.registro[1] top.controlunit_tb.uut.reg_file.reg6.registro[0]
+[pattern_trace] 1
+[pattern_trace] 0

@@ -1,0 +1,29 @@
+[*]
+[*] GTKWave Analyzer v3.3.99 (w)1999-2019 BSI
+[*] Fri Mar 22 02:57:09 2019
+[*]
+[dumpfile] "C:\Users\Giovanni_PC\Documents\GHDL\ULA\ULA_tb.ghw"
+[dumpfile_mtime] "Fri Mar 22 02:56:21 2019"
+[dumpfile_size] 801
+[savefile] "C:\Users\Giovanni_PC\Documents\GHDL\ULA\ULA.gtkw"
+[timestart] 0
+[size] 1000 600
+[pos] -1 -1
+*-26.235147 32300000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.ula_tb.
+[sst_width] 197
+[signals_width] 118
+[sst_expanded] 1
+[sst_vpaned_height] 153
+@25
+#{top.ula_tb.in_a[15:0]} top.ula_tb.in_a[15] top.ula_tb.in_a[14] top.ula_tb.in_a[13] top.ula_tb.in_a[12] top.ula_tb.in_a[11] top.ula_tb.in_a[10] top.ula_tb.in_a[9] top.ula_tb.in_a[8] top.ula_tb.in_a[7] top.ula_tb.in_a[6] top.ula_tb.in_a[5] top.ula_tb.in_a[4] top.ula_tb.in_a[3] top.ula_tb.in_a[2] top.ula_tb.in_a[1] top.ula_tb.in_a[0]
+#{top.ula_tb.in_b[15:0]} top.ula_tb.in_b[15] top.ula_tb.in_b[14] top.ula_tb.in_b[13] top.ula_tb.in_b[12] top.ula_tb.in_b[11] top.ula_tb.in_b[10] top.ula_tb.in_b[9] top.ula_tb.in_b[8] top.ula_tb.in_b[7] top.ula_tb.in_b[6] top.ula_tb.in_b[5] top.ula_tb.in_b[4] top.ula_tb.in_b[3] top.ula_tb.in_b[2] top.ula_tb.in_b[1] top.ula_tb.in_b[0]
+[color] 5
+#{top.ula_tb.op[1:0]} top.ula_tb.op[1] top.ula_tb.op[0]
+[color] 3
+#{top.ula_tb.out_s[15:0]} top.ula_tb.out_s[15] top.ula_tb.out_s[14] top.ula_tb.out_s[13] top.ula_tb.out_s[12] top.ula_tb.out_s[11] top.ula_tb.out_s[10] top.ula_tb.out_s[9] top.ula_tb.out_s[8] top.ula_tb.out_s[7] top.ula_tb.out_s[6] top.ula_tb.out_s[5] top.ula_tb.out_s[4] top.ula_tb.out_s[3] top.ula_tb.out_s[2] top.ula_tb.out_s[1] top.ula_tb.out_s[0]
+@28
+top.ula_tb.flag
+[pattern_trace] 1
+[pattern_trace] 0

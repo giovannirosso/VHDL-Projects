@@ -1,0 +1,10 @@
+v 4
+file . "Eq02_RegFile_tb.vhd" "0c58f6a0d5042f6ea51518c07c29648f1348aa75" "20190418212955.579":
+  entity register_file_tb at 5( 61) + 0 on 15;
+  architecture a_register_file_tb of register_file_tb at 12( 196) + 0 on 16;
+file . "Eq02-Reg16bits.vhd" "75e7ed56a5567c08d5609030d7cee047e045f8c0" "20190418212955.456":
+  entity reg16bits at 5( 61) + 0 on 11;
+  architecture a_reg16bits of reg16bits at 18( 338) + 0 on 12;
+file . "Eq02_RegFile.vhd" "49830146c7a656eeb11ede31e01367918cda7218" "20190418212955.516":
+  entity register_file at 5( 61) + 0 on 13;
+  architecture a_register_file of register_file at 26( 688) + 0 on 14;

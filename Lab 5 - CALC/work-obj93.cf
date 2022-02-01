@@ -1,0 +1,28 @@
+v 4
+file . "Eq02-controlUnit_tb.vhd" "695aec1803cbebb4c02c9d75336610fda661a459" "20190610011531.313":
+  entity controlunit_tb at 5( 78) + 0 on 27;
+  architecture a_controlunit_tb of controlunit_tb at 14( 197) + 0 on 28;
+file . "Eq02-pc.vhd" "1c9140d2e62b5c890b68a25e6e36f14aa8111b4c" "20190610011531.071":
+  entity pc at 5( 58) + 0 on 23;
+  architecture a_pc of pc at 18( 330) + 0 on 24;
+file . "Eq02-rom.vhd" "0428fb6038acfa8f72a66df6e7f1998c23cd5231" "20190610011530.846":
+  entity rom at 5( 59) + 0 on 19;
+  architecture a_rom of rom at 27( 989) + 0 on 20;
+file . "Eq02-acumulador.vhd" "3282fe1b8307c27145fc0a414f54f53d893f0ff5" "20190610011530.627":
+  entity acumulador at 5( 66) + 0 on 15;
+  architecture a_acumulador of acumulador at 18( 412) + 0 on 16;
+file . "Eq02-reg16bits.vhd" "01ae64cf169144cb8a1a05a20f0f315afb1f866b" "20190610011530.409":
+  entity reg16bits at 5( 65) + 0 on 11;
+  architecture a_reg16bits of reg16bits at 18( 433) + 0 on 12;
+file . "Eq02-register_file.vhd" "1af932d9eaec4d27521d039cab17b9cb1ac1f967" "20190610011530.520":
+  entity register_file at 5( 69) + 0 on 13;
+  architecture a_register_file of register_file at 30( 706) + 0 on 14;
+file . "Eq02-ULA.vhd" "34cc0e4b64a4479aee2249574631b48ca0289df4" "20190610011530.736":
+  entity ula at 5( 59) + 0 on 17;
+  architecture a_ula of ula at 27( 553) + 0 on 18;
+file . "Eq02-maquinaEstados.vhd" "a4e877bb897ea053df212bce7590a92223850103" "20190610011530.956":
+  entity maquinaestados at 5( 74) + 0 on 21;
+  architecture a_maquinaestados of maquinaestados at 16( 286) + 0 on 22;
+file . "Eq02-controlUnit.vhd" "5a0c40fbef87259eaed2dbf2a75ab4ecb9464d40" "20190610011531.187":
+  entity controlunit at 5( 75) + 0 on 25;
+  architecture a_controlunit of controlunit at 16( 295) + 0 on 26;

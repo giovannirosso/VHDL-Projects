@@ -1,0 +1,31 @@
+v 4
+file . "Eq02-processador_tb.vhd" "ee51cf9108fed4477d42f031ce4bf473b6455993" "20190708011824.822":
+  entity processador_tb at 5( 70) + 0 on 29;
+  architecture a_processador_tb of processador_tb at 14( 189) + 0 on 30;
+file . "Eq02-pc.vhd" "1c9140d2e62b5c890b68a25e6e36f14aa8111b4c" "20190708011824.573":
+  entity pc at 5( 58) + 0 on 25;
+  architecture a_pc of pc at 18( 330) + 0 on 26;
+file . "Eq02-rom.vhd" "3c4a9e2e306499cbbac78e424805530098666ddc" "20190708011824.348":
+  entity rom at 5( 59) + 0 on 21;
+  architecture a_rom of rom at 34( 1475) + 0 on 22;
+file . "Eq02-ULA.vhd" "43da4ed1b90f15da042931b648a08c289e1627ee" "20190708011824.134":
+  entity ula at 5( 59) + 0 on 17;
+  architecture a_ula of ula at 18( 410) + 0 on 18;
+file . "Eq02-register_file.vhd" "1af932d9eaec4d27521d039cab17b9cb1ac1f967" "20190708011823.923":
+  entity register_file at 5( 69) + 0 on 13;
+  architecture a_register_file of register_file at 30( 706) + 0 on 14;
+file . "Eq02-reg16bits.vhd" "01ae64cf169144cb8a1a05a20f0f315afb1f866b" "20190708011823.819":
+  entity reg16bits at 5( 65) + 0 on 11;
+  architecture a_reg16bits of reg16bits at 18( 433) + 0 on 12;
+file . "Eq02-acumulador.vhd" "3282fe1b8307c27145fc0a414f54f53d893f0ff5" "20190708011824.030":
+  entity acumulador at 5( 66) + 0 on 15;
+  architecture a_acumulador of acumulador at 18( 412) + 0 on 16;
+file . "Eq02-ram.vhd" "31e6c82a80a20c4952d0e09306824f4b3e953ed2" "20190708011824.239":
+  entity ram at 5( 59) + 0 on 19;
+  architecture a_ram of ram at 19( 516) + 0 on 20;
+file . "Eq02-maquinaEstados.vhd" "a4e877bb897ea053df212bce7590a92223850103" "20190708011824.460":
+  entity maquinaestados at 5( 74) + 0 on 23;
+  architecture a_maquinaestados of maquinaestados at 16( 286) + 0 on 24;
+file . "Eq02-processador.vhd" "6d9b4d385bb0d719ba4036c4c6898b5340c646ef" "20190708011824.689":
+  entity processador at 5( 67) + 0 on 27;
+  architecture a_processador of processador at 16( 287) + 0 on 28;

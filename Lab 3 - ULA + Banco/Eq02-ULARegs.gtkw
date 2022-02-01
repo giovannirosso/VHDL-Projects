@@ -1,0 +1,65 @@
+[*]
+[*] GTKWave Analyzer v3.3.99 (w)1999-2019 BSI
+[*] Tue Apr 23 03:46:20 2019
+[*]
+[dumpfile] "C:\Users\Giovanni_PC\Documents\GHDL\Lab 3 - ULA + Banco\Eq02-ULARegs.ghw"
+[dumpfile_mtime] "Tue Apr 23 03:45:12 2019"
+[dumpfile_size] 4245
+[savefile] "C:\Users\Giovanni_PC\Documents\GHDL\Lab 3 - ULA + Banco\Eq02-ULARegs.gtkw"
+[timestart] 0
+[size] 1277 686
+[pos] -1 -1
+*-27.795862 341000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] top.
+[treeopen] top.ula_regs_tb.
+[treeopen] top.ula_regs_tb.uut.
+[sst_width] 197
+[signals_width] 211
+[sst_expanded] 1
+[sst_vpaned_height] 183
+@28
+top.ula_regs_tb.flag
+[color] 4
+top.ula_regs_tb.we3
+[color] 4
+top.ula_regs_tb.rst
+[color] 4
+top.ula_regs_tb.clk
+[color] 7
+#{top.ula_regs_tb.a1[2:0]} top.ula_regs_tb.a1[2] top.ula_regs_tb.a1[1] top.ula_regs_tb.a1[0]
+[color] 7
+#{top.ula_regs_tb.a2[2:0]} top.ula_regs_tb.a2[2] top.ula_regs_tb.a2[1] top.ula_regs_tb.a2[0]
+[color] 7
+#{top.ula_regs_tb.a3[2:0]} top.ula_regs_tb.a3[2] top.ula_regs_tb.a3[1] top.ula_regs_tb.a3[0]
+[color] 3
+#{top.ula_regs_tb.op[1:0]} top.ula_regs_tb.op[1] top.ula_regs_tb.op[0]
+@24
+[color] 5
+#{top.ula_regs_tb.wd3[15:0]} top.ula_regs_tb.wd3[15] top.ula_regs_tb.wd3[14] top.ula_regs_tb.wd3[13] top.ula_regs_tb.wd3[12] top.ula_regs_tb.wd3[11] top.ula_regs_tb.wd3[10] top.ula_regs_tb.wd3[9] top.ula_regs_tb.wd3[8] top.ula_regs_tb.wd3[7] top.ula_regs_tb.wd3[6] top.ula_regs_tb.wd3[5] top.ula_regs_tb.wd3[4] top.ula_regs_tb.wd3[3] top.ula_regs_tb.wd3[2] top.ula_regs_tb.wd3[1] top.ula_regs_tb.wd3[0]
+#{top.ula_regs_tb.uut.data_in_a1[15:0]} top.ula_regs_tb.uut.data_in_a1[15] top.ula_regs_tb.uut.data_in_a1[14] top.ula_regs_tb.uut.data_in_a1[13] top.ula_regs_tb.uut.data_in_a1[12] top.ula_regs_tb.uut.data_in_a1[11] top.ula_regs_tb.uut.data_in_a1[10] top.ula_regs_tb.uut.data_in_a1[9] top.ula_regs_tb.uut.data_in_a1[8] top.ula_regs_tb.uut.data_in_a1[7] top.ula_regs_tb.uut.data_in_a1[6] top.ula_regs_tb.uut.data_in_a1[5] top.ula_regs_tb.uut.data_in_a1[4] top.ula_regs_tb.uut.data_in_a1[3] top.ula_regs_tb.uut.data_in_a1[2] top.ula_regs_tb.uut.data_in_a1[1] top.ula_regs_tb.uut.data_in_a1[0]
+@c00024
+#{top.ula_regs_tb.uut.data_in_a2[15:0]} top.ula_regs_tb.uut.data_in_a2[15] top.ula_regs_tb.uut.data_in_a2[14] top.ula_regs_tb.uut.data_in_a2[13] top.ula_regs_tb.uut.data_in_a2[12] top.ula_regs_tb.uut.data_in_a2[11] top.ula_regs_tb.uut.data_in_a2[10] top.ula_regs_tb.uut.data_in_a2[9] top.ula_regs_tb.uut.data_in_a2[8] top.ula_regs_tb.uut.data_in_a2[7] top.ula_regs_tb.uut.data_in_a2[6] top.ula_regs_tb.uut.data_in_a2[5] top.ula_regs_tb.uut.data_in_a2[4] top.ula_regs_tb.uut.data_in_a2[3] top.ula_regs_tb.uut.data_in_a2[2] top.ula_regs_tb.uut.data_in_a2[1] top.ula_regs_tb.uut.data_in_a2[0]
+@28
+top.ula_regs_tb.uut.data_in_a2[15]
+top.ula_regs_tb.uut.data_in_a2[14]
+top.ula_regs_tb.uut.data_in_a2[13]
+top.ula_regs_tb.uut.data_in_a2[12]
+top.ula_regs_tb.uut.data_in_a2[11]
+top.ula_regs_tb.uut.data_in_a2[10]
+top.ula_regs_tb.uut.data_in_a2[9]
+top.ula_regs_tb.uut.data_in_a2[8]
+top.ula_regs_tb.uut.data_in_a2[7]
+top.ula_regs_tb.uut.data_in_a2[6]
+top.ula_regs_tb.uut.data_in_a2[5]
+top.ula_regs_tb.uut.data_in_a2[4]
+top.ula_regs_tb.uut.data_in_a2[3]
+top.ula_regs_tb.uut.data_in_a2[2]
+top.ula_regs_tb.uut.data_in_a2[1]
+top.ula_regs_tb.uut.data_in_a2[0]
+@1401200
+-group_end
+@24
+[color] 2
+#{top.ula_regs_tb.out_s[15:0]} top.ula_regs_tb.out_s[15] top.ula_regs_tb.out_s[14] top.ula_regs_tb.out_s[13] top.ula_regs_tb.out_s[12] top.ula_regs_tb.out_s[11] top.ula_regs_tb.out_s[10] top.ula_regs_tb.out_s[9] top.ula_regs_tb.out_s[8] top.ula_regs_tb.out_s[7] top.ula_regs_tb.out_s[6] top.ula_regs_tb.out_s[5] top.ula_regs_tb.out_s[4] top.ula_regs_tb.out_s[3] top.ula_regs_tb.out_s[2] top.ula_regs_tb.out_s[1] top.ula_regs_tb.out_s[0]
+[pattern_trace] 1
+[pattern_trace] 0
